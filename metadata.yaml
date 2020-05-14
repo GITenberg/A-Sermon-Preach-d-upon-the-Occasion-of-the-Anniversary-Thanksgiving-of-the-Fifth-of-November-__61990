@@ -1,0 +1,34 @@
+_repo: A-Sermon-Preach-d-upon-the-Occasion-of-the-Anniversary-Thanksgiving-of-the-Fifth-of-November-__61990
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hough, Nathaniel
+    aliases:
+    - Hough, Nath. (Nathaniel)
+    - Hough, N. (Nathaniel)
+    deathdate: 1737
+    gutenberg_agent_id: '51714'
+    url: http://www.gutenberg.org/2009/agents/51714
+description: ''
+gutenberg_issued: '2020-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anti-Catholicism -- England -- Sermons -- Early works to 1800'
+- !lcsh 'Gunpowder Plot, 1605'
+- !lcc 'DA'
+- !lcsh 'Gunpowder Plot, 1605 -- Anniversaries, etc. -- Sermons -- Early works to
+  1800'
+- !lcsh 'Sermons, English -- 18th century'
+- !lcc 'BX'
+- GITenberg
+title: 'A Sermon Preach''d upon the Occasion of the Anniversary Thanksgiving of the
+  Fifth of November, 1706
+
+  at the Church of Kensington'
+url: http://www.gutenberg.org/ebooks/61990
